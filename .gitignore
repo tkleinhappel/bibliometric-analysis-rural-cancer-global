@@ -1,0 +1,17 @@
+# RStudio project files (local workspace state, not needed in the repository)
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Raw and merged bibliometric data (Web of Science / Scopus exports, kept out
+# due to licence restrictions on redistributing bulk exported records)
+Searches/
+
+# Loose source data files, if copied into the project root
+*.csv
+WebOfScienceAffiliationAbbreviations.csv
+
+# Generated plots and images (optional, remove this line if you want to
+# include the plots in the repository)
+PlotsGlobal/
